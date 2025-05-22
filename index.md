@@ -3,7 +3,7 @@ layout: home
 title: "Mattis thor Straten"
 ---
 
-![Mattis thor Straten](/images/profil.jpg){: style="width:10%; float:right; margin-left: 1rem; border-radius: 10px;" }
+![Mattis thor Straten](/images/profil.jpg){: style="width:100px; float:right; margin-left: 1rem; border-radius: 10px;" }
 
 # Mattis thor Straten
 
