@@ -3,34 +3,6 @@ title: "Mattis thor Straten"
 layout: default
 ---
 
-<style>
-  :root {
-    --primary-blue: #1e3a8a;  /* Dunkelblau */
-    --accent-blue: #3b82f6;   /* Mittelblau */
-    --light-blue: #eff6ff;    /* Sehr helles Blau */
-  }
-
-  .hero {
-    background: linear-gradient(135deg, var(--primary-blue), var(--accent-blue));
-    color: white;
-    text-align: center;
-    padding: 4rem 1rem 3rem;
-    margin: -2rem -2rem 2rem;
-    border-radius: 0 0 1rem 1rem;
-  }
-
-  .hero h1 {
-    font-size: 3rem;
-    font-weight: 700;
-    margin: 0;
-  }
-
-  .hero h2 {
-    font-weight: 400;
-    font-size: 1.25rem;
-    margin-top: 0.5rem;
-  }
-
   .intro-container {
     display: flex;
     flex-wrap: wrap;
@@ -75,10 +47,6 @@ layout: default
   }
 </style>
 
-<div class="hero">
-  <h1>Mattis thor Straten</h1>
-  <h2>PhD Student at Kiel University, Computer Science</h2>
-</div>
 
 <div class="intro-container">
   <div class="intro-text">
