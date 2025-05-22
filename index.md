@@ -3,7 +3,6 @@ title: "Mattis thor Straten"
 layout: default
 ---
 
-
 <div class="intro-container">
   <div class="intro-text">
     <p>My name is Mattis and I am currently a PhD student in Computer Science. This page aims to give you a brief overview about me and my projects.</p>
@@ -14,9 +13,10 @@ layout: default
     </div>
   </div>
   <div class="profile-pic">
-    <img src="/images/profil.jpg" alt="Mattis thor Straten">
+    <img src="/images/profil.jpg" alt="Mattis thor Straten" style="width: 250px;">
   </div>
 </div>
+
 
 ---
 
