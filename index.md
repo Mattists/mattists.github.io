@@ -3,50 +3,6 @@ title: "Mattis thor Straten"
 layout: default
 ---
 
-  .intro-container {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    gap: 1rem;
-    margin-bottom: 2rem;
-  }
-
-  .intro-text {
-    flex: 2;
-    min-width: 250px;
-    font-size: 1rem;
-  }
-
-  .intro-text p {
-    margin: 0.5rem 0;
-  }
-
-  .contact-links a {
-    display: inline-block;
-    margin-right: 1rem;
-    color: var(--primary-blue);
-    text-decoration: none;
-    font-weight: 500;
-  }
-
-  .profile-pic {
-    flex: 1;
-    min-width: 200px;
-    max-width: 250px;
-  }
-
-  .profile-pic img {
-    width: 100%;
-    border-radius: 12px;
-  }
-
-  hr {
-    margin: 2rem 0;
-    border: none;
-    border-top: 1px solid var(--light-blue);
-  }
-</style>
-
 
 <div class="intro-container">
   <div class="intro-text">
