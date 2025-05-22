@@ -6,7 +6,7 @@ layout: default
 
 <div class="intro-container">
   <div class="intro-text">
-    <p>This page gives an overview about me and my projects.</p>
+    <p>My name is Mattis and I am currently a PhD student in Computer Science. This page aims to give you a brief overview about me and my projects.</p>
     <div class="contact-links">
       🧬 <a href="https://orcid.org/0009-0005-1140-3352">ORCID: 0009-0005-1140-3352</a><br>
       🔗 <a href="https://www.linkedin.com/in/mattis-thor-straten-517467211/">LinkedIn</a><br>
