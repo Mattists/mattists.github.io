@@ -100,7 +100,7 @@
   ## About me
 
   I am working at Kiel University as a PhD student since March 2024 in the Department of Computer Science.  
-  My research group is [Archeoinformatics – Data Science](https://www.uni-kiel.de/de/tf/forschen/institut-informatik/archaeoinformatik), where I work with Prof. Matthias Renz as part of [NFDI4Objects](https://www.nfdi4objects.net/) Task Area 3 "Analytics and Experiments" on Heterogeneous Information Networks, Linked Open Data, Semantic Modelling and Data Mining.
+  My research group is [Archeoinformatics – Data Science](https://www.uni-kiel.de/de/tf/forschen/institut-informatik/archaeoinformatik), where I work with Prof. Matthias Renz as part of [NFDI4Objects](https://www.nfdi4objects.net/) Task Area 3 "Analytics and Experiments" on Heterogeneous Information Networks, Linked Open Data, Semantic Modelling, Research Data Management and Data Mining.
 
   ---
 
