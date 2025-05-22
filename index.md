@@ -3,14 +3,15 @@ layout: home
 title: "Mattis thor Straten"
 ---
 
-![Mattis thor Straten](/images/profil.jpg){: style="width:100px; float:right; margin-left: 1rem; border-radius: 10px;" }
+![Mattis thor Straten](/images/profil.jpg){: style="width:250px; float:right; margin-left: 1rem; border-radius: 10px;" }
 
 # Mattis thor Straten
 
 This page gives an overview about me and my projects.
+🧬 [ORCID: 0009-0005-1140-3352](https://orcid.org/0009-0005-1140-3352)  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mattis-thor-straten-517467211/)  
-🧬 [ORCID: 0009-0005-1140-3352](https://orcid.org/0009-0005-1140-3352)  
+
 📧 <a href="mailto:mts[at]cs.uni-kiel.de">mts[at]cs.uni-kiel.de</a>
 
 ---
@@ -25,9 +26,13 @@ My research group is [Archeoinformatics – Data Science](https://www.uni-kiel.d
 ## Publications and Conference Talks
 
 - CAA 2025, Athens, Greece: [A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets](https://doi.org/10.5281/zenodo.15309880) (M. thor Straten, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz)
+- CAA 2025, Athens, Greece: *From Interdisciplinary Data Management to Reproducible Research in Practice* (S. Strohm, M. thor Straten, A. Göhring, P. Kröger, M. Renz)
 - Kiel Conference 2025, Kiel, Germany: *Heterogeneous Information Networks in Early Raw Material Exchange* (B. Serbe, M. thor Straten, S. Strohm, J. Hilpert, T. Kerig)
 - E-Science Tage 2025, Heidelberg, Germany: [Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks](https://doi.org/10.5281/zenodo.15040308) (M. thor Straten, S. Strohm, F. Thiery, M. Renz)
 - CHNT 2024, Vienna, Austria: *Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks* (M. thor Straten, S. Strohm, M. Renz)
+- *Approaching Data Integration for Dissimilar Objects* (S. Strohm, M. thor Straten)
+
+---
 
 ## Teaching
 
