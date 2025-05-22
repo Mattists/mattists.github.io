@@ -4,6 +4,9 @@ layout: default
 ---
 
 <div class="intro-container">
+  <div class="profile-pic">
+    <img src="/images/profil.jpg" alt="Mattis thor Straten" style="width: 250px;">
+  </div>
   <div class="intro-text">
     <p>My name is Mattis and I am currently a PhD student in Computer Science. This page aims to give you a brief overview about me and my projects.</p>
     <div class="contact-links">
@@ -11,9 +14,6 @@ layout: default
       🔗 <a href="https://www.linkedin.com/in/mattis-thor-straten-517467211/">LinkedIn</a><br>
       📧 <a href="mailto:mts@cs.uni-kiel.de">mts[at]cs.uni-kiel.de</a>
     </div>
-  </div>
-  <div class="profile-pic">
-    <img src="/images/profil.jpg" alt="Mattis thor Straten" style="width: 250px;">
   </div>
 </div>
 
