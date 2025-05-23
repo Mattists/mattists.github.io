@@ -70,7 +70,7 @@ My research group is [Archeoinformatics – Data Science](https://www.uni-kiel.d
 
 ---
 
-## Conference Session Chairing and Organization
+## Chaired Conference Sessions
 
 - <p>CHNT 2025, Vienna, Austria: 
       <a href="https://chnt.at/wp-content/uploads/2025/03/13.pdf">
