@@ -29,31 +29,49 @@ My research group is [Archeoinformatics – Data Science](https://www.uni-kiel.d
 
 ## Publications in Progress
 
-- A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets 
-  **M. thor Straten**, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz
-- From Interdisciplinary Data Management to Reproducible Research in Practice 
-  S. Strohm, **M. thor Straten**, A. Göhring, P. Kröger, M. Renz
-- Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks 
-  **M. thor Straten**, S. Strohm, F. Thiery, M. Renz
-- Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks 
-  **M. thor Straten**, S. Strohm, M. Renz
-- Approaching Data Integration for Dissimilar Objects 
-  S. Strohm, **M. thor Straten**
+- <p>A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets<br> 
+  <strong>M. thor Straten</strong>, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz</p>
+- <p>From Interdisciplinary Data Management to Reproducible Research in Practice<br>
+  S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz</p>
+- <p>Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks<br>
+  <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
+- <p>Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks<br>
+  <strong>M. thor Straten</strong>, S. Strohm, M. Renz</p>
+- <p>Approaching Data Integration for Dissimilar Objects<br>
+  S. Strohm, <strong>M. thor Straten</strong></p>
 
 ---
 
 ## Conference Talks
 
-- CAA 2025, Athens, Greece: [A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets](https://doi.org/10.5281/zenodo.15309880)
-  **M. thor Straten**, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz)
-- CAA 2025, Athens, Greece: From Interdisciplinary Data Management to Reproducible Research in Practice 
-  S. Strohm, **M. thor Straten**, A. Göhring, P. Kröger, M. Renz
-- Kiel Conference 2025, Kiel, Germany: Heterogeneous Information Networks in Early Raw Material Exchange 
-  B. Serbe, **M. thor Straten**, S. Strohm, J. Hilpert, T. Kerig
-- E-Science Tage 2025, Heidelberg, Germany: [Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks](https://doi.org/10.5281/zenodo.15040308) 
-  **M. thor Straten**, S. Strohm, F. Thiery, M. Renz
-- CAA 2024, Vienna, Austria: Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks 
-  **M. thor Straten**, S. Strohm, M. Renz)
+- <p>CAA 2025, Athens, Greece: [A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets](https://doi.org/10.5281/zenodo.15309880)<br>
+  <strong>M. thor Straten</strong>, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz</p>
+  
+- <p>CAA 2025, Athens, Greece: From Interdisciplinary Data Management to Reproducible Research in Practice<br>
+  S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz</p>
+  
+- <p>Kiel Conference 2025, Kiel, Germany: Heterogeneous Information Networks in Early Raw Material Exchange<br>
+  B. Serbe, <strong>M. thor Straten</strong>, S. Strohm, J. Hilpert, T. Kerig</p>
+  
+- <p>E-Science Tage 2025, Heidelberg, Germany: [Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks](https://doi.org/10.5281/zenodo.15040308)<br>
+  <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
+  
+- <p>CHNT 2024, Vienna, Austria: Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks<br>
+  <strong>M. thor Straten</strong>, S. Strohm, M. Renz</p>
+
+---
+
+## Conference Session Chairing and Organization
+
+- <p>CHNT 2025, Vienna, Austria: [Research Data Management in an agile, semantically interlinked, data-driven and AI-biased world of Knowledge Hubs — A re-return for FAIR reuse of archive data?](https://chnt.at/wp-content/uploads/2025/03/13.pdf)<br>
+  F. Thiery, S. Stead, <strong>M. thor Straten</strong>, J. Jansen, N. Alpino</p>
+
+- <p>Kiel Conference 2025, Kiel, Germany: [AI in Archaeology](https://www.researchgate.net/publication/382742601_Kiel_Conference_2025_-_Call_for_Papers_-_Session_8_AI_in_Archaeology)<br>
+  B. Serbe, <strong>M. thor Straten</strong>, S. Strohm, J. Hilpert, T. Kerig</p>
+
+- <p>CHNT 2024, Vienna, Austria: [Research Data Management in Cultural Heritage goes Digital - New Technologies along
+  the object biography](https://drive.google.com/file/d/1GJ2VEGrKlrGv-TxKArtN5PzdwvsnYHfp/view)<br>
+  F. Thiery, N. Alpino, <strong>M. thor Straten</strong></p>
 
 ---
 
