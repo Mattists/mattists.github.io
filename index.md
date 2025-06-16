@@ -94,8 +94,8 @@ My research group is [Archeoinformatics – Data Science](https://www.uni-kiel.d
 
 ## Teaching
 
-- SoSe25: [Master Project - Data Science and Data Mining](https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=techn/infor/inform/archoi/infmpa&anonymous=1&ref=tlecture&sem=2025s&tdir=techn/infora/master/master_2&__e=230)  
-- SoSe25: [Bachelor Seminar Data Science](https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=techn/infor/inform/archoi/bsemda&anonymous=1&ref=tlecture&sem=2025s&tdir=techn/infora/bachel/semina&__e=230)
+- SoSe25: Master Project - Data Science and Data Mining
+- SoSe25: Bachelor Seminar Data Science
 
 ---
 
