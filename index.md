@@ -85,7 +85,7 @@ My research group is [Archeoinformatics – Data Science](https://www.uni-kiel.d
   B. Serbe, <strong>M. thor Straten</strong>, S. Strohm, J. Hilpert, T. Kerig</p>
 
 - <p>CHNT 2024, Vienna, Austria: 
-      <a href="https://drive.google.com/file/d/1GJ2VEGrKlrGv-TxKArtN5PzdwvsnYHfp/view">
+      <a href="https://zenodo.org/records/10992402">
       Research Data Management in Cultural Heritage goes Digital – New Technologies Along the Object Biography
     </a><br>
   F. Thiery, N. Alpino, <strong>M. thor Straten</strong></p>
