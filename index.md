@@ -70,25 +70,27 @@ My research group is [Archeoinformatics – Data Science](https://www.uni-kiel.d
 
 ---
 
-## Chaired Conference Sessions
+## Conferences & Sessions
 
-- <p>CHNT 2025, Vienna, Austria: 
+- <p>(Session Co-Chair) CHNT 2025, Vienna, Austria: 
       <a href="https://chnt.at/wp-content/uploads/2025/03/13.pdf">
       Research Data Management in an Agile, Semantically Interlinked, Data-Driven and AI-Biased World of Knowledge Hubs — A Re-Return for FAIR Reuse of Archive Data?
     </a><br>
-  F. Thiery, S. Stead, <strong>M. thor Straten</strong>, J. Jansen, N. Alpino</p>
 
-- <p>Kiel Conference 2025, Kiel, Germany: 
+- <p>(Session Co-Chair) Kiel Conference 2025, Kiel, Germany: 
       <a href="https://www.researchgate.net/publication/382742601_Kiel_Conference_2025_-_Call_for_Papers_-_Session_8_AI_in_Archaeology">
       AI in Archaeology
     </a><br>
-  B. Serbe, <strong>M. thor Straten</strong>, S. Strohm, J. Hilpert, T. Kerig</p>
 
-- <p>CHNT 2024, Vienna, Austria: 
+- <p>(Reviewer) deRSE25, Karlsruhe, Germany: 
+  <a href="https://events.hifis.net/event/2050/">
+  5th Conference for Research Software Engineering in Germany 
+  </a><br>
+
+- <p>(Session Co-Chair) CHNT 2024, Vienna, Austria: 
       <a href="https://zenodo.org/records/10992402">
       Research Data Management in Cultural Heritage goes Digital – New Technologies Along the Object Biography
     </a><br>
-  F. Thiery, N. Alpino, <strong>M. thor Straten</strong></p>
 
 ---
 
