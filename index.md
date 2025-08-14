@@ -80,26 +80,26 @@ My key research areas include:
 
 ## Conferences & Sessions
 
-- <p>(Session Co-Chair) <a href="https://chnt.at/">CHNT 2025 </a>: Conference on Cultural Heritage and New Technologies, Vienna, Austria <br>
-  30 Years of Visions for the Future Impacts of Technology on Cultural Heritage <br>
-      <a href="https://chnt.at/wp-content/uploads/2025/03/13.pdf"> 
+**Session Co-Chair:**
+
+- <p><a href="https://chnt.at/">CHNT 2025 </a>: Conference on Cultural Heritage and New Technologies, Vienna, Austria <br> 30 Years of Visions for the Future Impacts of Technology on Cultural Heritage <br>
+      Session: <a href="https://chnt.at/wp-content/uploads/2025/03/13.pdf"> 
       Research Data Management in an Agile, Semantically Interlinked, Data-Driven and AI-Biased World of Knowledge Hubs — A Re-Return for FAIR Reuse of Archive Data?
     </a><br>
-  
-- <p>(Session Co-Chair) <a href="https://www.kielconference.uni-kiel.de/wp-content/uploads/KC-Programm-A5-2025-web.pdf">Kiel Conference 2025 </a>: Scales of Social, Environmental and Cultural Change in Past Societies, Kiel, Germany <br>
-      <a href="https://www.researchgate.net/publication/382742601_Kiel_Conference_2025_-_Call_for_Papers_-_Session_8_AI_in_Archaeology">
+
+- <p><a href="https://www.kielconference.uni-kiel.de/wp-content/uploads/KC-Programm-A5-2025-web.pdf">Kiel Conference 2025 </a>: Scales of Social, Environmental and Cultural Change in Past Societies, Kiel, Germany <br>
+      Session: <a href="https://www.researchgate.net/publication/382742601_Kiel_Conference_2025_-_Call_for_Papers_-_Session_8_AI_in_Archaeology">
       AI in Archaeology
     </a><br>
 
-- <p>(Reviewer) deRSE25: 
-  <a href="https://events.hifis.net/event/2050/">
-  5th Conference for Research Software Engineering in Germany,  Karlsruhe, Germany 
-  </a><br>
-
-- <p>(Session Co-Chair) <a href="https://chnt.at/chnt29-2024/#top">CHNT 2024 </a>: Conference on Cultural Heritage and New Technologies, Vienna, Austria <br>
-      <a href="https://zenodo.org/records/10992402">
+- <p><a href="https://chnt.at/chnt29-2024/#top">CHNT 2024</a>: Conference on Cultural Heritage and New Technologies, Vienna, Austria <br>
+      Session: <a href="https://zenodo.org/records/10992402">
       Research Data Management in Cultural Heritage goes Digital – New Technologies Along the Object Biography
     </a><br>
+
+**Reviewer:**
+
+- <p><a href="https://events.hifis.net/event/2050/"> deRSE25: </a>5th Conference for Research Software Engineering in Germany,  Karlsruhe, Germany <br>
 
 ---
 
