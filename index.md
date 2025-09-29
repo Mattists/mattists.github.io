@@ -105,8 +105,10 @@ My key research areas include:
 
 ## Teaching
 
-- SoSe25: Master Project - Data Science and Data Mining
-- SoSe25: Bachelor Seminar Data Science
+- Winter term 25/26: Master Seminar - Data Science
+- Winter term 25: Bachelor Seminar - Data Science
+- Summer term 25: Master Project - Data Science and Data Mining
+- Summer term 25: Bachelor Seminar - Data Science
 
 ---
 
