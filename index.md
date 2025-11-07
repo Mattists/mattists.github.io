@@ -35,16 +35,26 @@ My key research areas include:
 
 ---
 
+## Publications
+
+- <p><a href="https://doi.org/10.11588/heibooks.1652.c23914">
+         Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks </a><br>
+  <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
+
 ## Publications in Progress
+
+- <p>FAIRifying Interdisciplinary Heterogeneous Information Networks in the Cultural Heritage Domain<br> 
+  <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
 
 - <p>A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets<br> 
   <strong>M. thor Straten</strong>, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz</p>
+
 - <p>From Interdisciplinary Data Management to Reproducible Research in Practice<br>
   S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz</p>
-- <p>Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks<br>
-  <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
+
 - <p>Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks<br>
   <strong>M. thor Straten</strong>, S. Strohm, M. Renz</p>
+
 - <p>Approaching Data Integration for Dissimilar Objects<br>
   S. Strohm, <strong>M. thor Straten</strong></p>
 
@@ -52,26 +62,32 @@ My key research areas include:
 
 ## Presented & Co-Authored Conference Talks
 
-- <p>CAA 2025, Athens, Greece: 
-      <a href="https://doi.org/10.5281/zenodo.15309880">
-      A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets
+- <p>CHNT 2025, Vienna, Austria: 
+      <a href="https://doi.org/10.5281/zenodo.17529059">
+      FAIRifying Interdisciplinary Heterogeneous Information Networks in the Cultural Heritage Domain (Poster + Presentation)
     </a><br>
+  <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
+
+- <p>CAA 2025, Athens, Greece: 
+  <a href="https://doi.org/10.5281/zenodo.15309880">
+  A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets
+  </a><br>
   <strong>M. thor Straten</strong>, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz</p>
-  
+
 - <p>CAA 2025, Athens, Greece: 
       From Interdisciplinary Data Management to Reproducible Research in Practice<br>
   S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz</p>
-  
+
 - <p>Kiel Conference 2025, Kiel, Germany: 
       Heterogeneous Information Networks in Early Raw Material Exchange<br>
   B. Serbe, <strong>M. thor Straten</strong>, S. Strohm, J. Hilpert, T. Kerig</p>
-  
+
 - <p>E-Science Tage 2025, Heidelberg, Germany: 
       <a href="https://doi.org/10.5281/zenodo.15040308">
       Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks
     </a><br>
   <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
-  
+
 - <p>CHNT 2024, Vienna, Austria: 
       Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks<br>
   <strong>M. thor Straten</strong>, S. Strohm, M. Renz</p>
