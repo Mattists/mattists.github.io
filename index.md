@@ -29,8 +29,8 @@ I am particularly interested in data-centric methods for modeling, integrating a
 My key research areas include:
 
 - **Heterogeneous Information Networks (HINs)** and **Knowledge Graphs**
-- **Semantic Web technologies**, including **Linked Open Data** and **semantic modelling**
-- **Research Data Management**, with a focus on FAIR principles
+- **Semantic Web Technologies**, including **Linked Open Data** and **Semantic Modelling**
+- **Research Data Management**, with a focus on FAIR data
 - **Data Integration** and **Data Mining**, especially in interdisciplinary settings
 
 ---
