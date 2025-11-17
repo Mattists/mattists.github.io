@@ -35,6 +35,14 @@ My key research areas include:
 
 ---
 
+## Education
+
+- March 2024 – present: **PhD Student (Computer Science)** – Kiel University  
+- April 2021 – February 2024: **Master of Science (Computer Science)** – Kiel University – Grade 1.0  (Best Degree of the Degree Program in the Period Summer Semester 2023 to Winter Semester 2023/24) 
+- October 2017 – March 2021: **Bachelor of Science (Computer Science)** – Kiel University – Grade 1.4
+
+---
+
 ## Publications
 
 - <p><a href="https://doi.org/10.11588/heibooks.1652.c23914">
@@ -46,10 +54,11 @@ My key research areas include:
 - <p>FAIRifying Interdisciplinary Heterogeneous Information Networks in the Cultural Heritage Domain<br> 
   <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
 
-- <p>A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets<br> 
+- <p><a href="https://doi.org/10.5281/zenodo.17020067">
+      A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets </a><br>
   <strong>M. thor Straten</strong>, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz</p>
-
-- <p>From Interdisciplinary Data Management to Reproducible Research in Practice<br>
+  
+- <p><a href="https://doi.org/10.5281/zenodo.17361588">From Interdisciplinary Data Management to Reproducible Research in Practice </a><br>
   S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz</p>
 
 - <p>Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks<br>
@@ -60,23 +69,13 @@ My key research areas include:
 
 ---
 
-## Presented & Co-Authored Conference Talks
+## Conference Talks
 
 - <p>CHNT 2025, Vienna, Austria: 
       <a href="https://doi.org/10.5281/zenodo.17529059">
       FAIRifying Interdisciplinary Heterogeneous Information Networks in the Cultural Heritage Domain (Poster + Presentation)
     </a><br>
   <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
-
-- <p>CAA 2025, Athens, Greece: 
-  <a href="https://doi.org/10.5281/zenodo.15309880">
-  A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets
-  </a><br>
-  <strong>M. thor Straten</strong>, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz</p>
-
-- <p>CAA 2025, Athens, Greece: 
-      From Interdisciplinary Data Management to Reproducible Research in Practice<br>
-  S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz</p>
 
 - <p>Kiel Conference 2025, Kiel, Germany: 
       Heterogeneous Information Networks in Early Raw Material Exchange<br>
@@ -94,9 +93,7 @@ My key research areas include:
 
 ---
 
-## Conferences & Sessions
-
-**Session Co-Chair:**
+## Conference Session Co-Chairing:
 
 - <p><a href="https://chnt.at/">CHNT 2025 </a>: Conference on Cultural Heritage and New Technologies, Vienna, Austria <br> 30 Years of Visions for the Future Impacts of Technology on Cultural Heritage <br>
       Session: <a href="https://chnt.at/wp-content/uploads/2025/03/13.pdf"> 
@@ -113,23 +110,15 @@ My key research areas include:
       Research Data Management in Cultural Heritage goes Digital – New Technologies Along the Object Biography
     </a><br>
 
-**Reviewer:**
-
-- <p><a href="https://events.hifis.net/event/2050/"> deRSE25: </a>5th Conference for Research Software Engineering in Germany,  Karlsruhe, Germany <br>
-
 ---
 
 ## Teaching
 
-- Winter term 25/26: Master Seminar - Data Science
-- Winter term 25: Bachelor Seminar - Data Science
-- Summer term 25: Master Project - Data Science and Data Mining
-- Summer term 25: Bachelor Seminar - Data Science
+- Winter term 25/26: **Master's Seminar** - Data Science
+- Winter term 25/26: **Bachelor's Seminar** - Data Science
+- Summer term 25: **Master's Project** - Data Science and Data Mining
+- Summer term 25: **Bachelor's Seminar** - Data Science
 
----
+## Thesis Co-Supervision (with Prof. Dr. Matthias Renz)
 
-## Education
-
-- March 2024 – present: **PhD Student (Computer Science)** – Kiel University  
-- April 2021 – February 2024: **Master of Science (Computer Science)** – Kiel University – Grade 1.0  
-- October 2017 – March 2021: **Bachelor of Science (Computer Science)** – Kiel University – Grade 1.4
+- Winter term 25/26: Master's Thesis – Integrating Grid-Based Proximity and Indexing for Spatially-Aware PathSim Queries
