@@ -116,9 +116,10 @@ My key research areas include:
 
 - Winter term 25/26: **Master's Seminar** - Data Science
 - Winter term 25/26: **Bachelor's Seminar** - Data Science
-- Summer term 25: **Master's Project** - Data Science and Data Mining
+- Summer term 25: **Master's Project** - Data Science and Data Mining: *"A Live Foosball Commentary System Using Computer
+  Vision, Markov Models, and Large Language Models"*
 - Summer term 25: **Bachelor's Seminar** - Data Science
 
 ## Thesis Co-Supervision (with Prof. Dr. Matthias Renz)
 
-- Winter term 25/26: Master's Thesis – Integrating Grid-Based Proximity and Indexing for Spatially-Aware PathSim Queries
+- Winter term 25/26: **Master's Thesis** – *"Integrating Grid-Based Proximity and Indexing for Spatially-Aware PathSim Queries"*
