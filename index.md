@@ -69,13 +69,19 @@ My key research areas include:
 
 ---
 
-## Conference Talks
+## Conference Talks & Posters
 
 - <p>CHNT 2025, Vienna, Austria: 
       <a href="https://doi.org/10.5281/zenodo.17529059">
       FAIRifying Interdisciplinary Heterogeneous Information Networks in the Cultural Heritage Domain (Poster + Presentation)
     </a><br>
   <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
+
+- <p>Forge 2025, Rostock, Germany: 
+      <a href="https://doi.org/10.5281/zenodo.17248698">
+      NFDI4Objects - Das NFDI-Konsortium zum materiellen Erbe aus etwa drei Millionen Jahren Menschheits- und Umweltgeschichte
+    </a><br>
+  A. Berthold, F. Fricke, A. Gerber, B. Hildebrandt, J. Hollaender, T. Jojo, C. Keller, M. Krause, J. Lefeldt, S. Schröer-Spang, J. Sessing, <strong>M. thor Straten</strong>, S. Baars</p>
 
 - <p>Kiel Conference 2025, Kiel, Germany: 
       Heterogeneous Information Networks in Early Raw Material Exchange<br>
