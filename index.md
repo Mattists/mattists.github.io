@@ -54,7 +54,7 @@ My key research areas include:
 - <p>FAIRifying Interdisciplinary Heterogeneous Information Networks in the Cultural Heritage Domain<br> 
   <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
 
-- <p><a href="https://doi.org/10.5281/zenodo.17020067">
+- <p><a href="https://doi.org/10.5281/zenodo.17099453">
       A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets </a><br>
   <strong>M. thor Straten</strong>, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz</p>
   
