@@ -26,10 +26,11 @@ I am a PhD student in the Department of Computer Science at Kiel University, aff
 I am particularly interested in data-centric methods for modeling, integrating and analyzing complex, heterogeneous information in an interdisciplinary context. 
 My key research areas include:
 
+- **Data Integration** and **Data Mining**, especially in interdisciplinary settings
+
 - **Heterogeneous Information Networks (HINs)** and **Knowledge Graphs**
 - **Semantic Web Technologies**, including **Linked Open Data** and **Semantic Modelling**
 - **Research Data Management**, with a particular emphasis on FAIR data
-- **Data Integration** and **Data Mining**, especially in interdisciplinary settings
 
 ---
 
