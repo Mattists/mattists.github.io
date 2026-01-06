@@ -8,29 +8,27 @@ layout: default
     <img src="/images/profil.jpg" alt="Mattis thor Straten" style="width: 250px;">
   </div>
   <div class="intro-text">
-    <p>My name is Mattis and I am currently a PhD student in Computer Science. This page aims to give you a brief overview about me and my projects.</p>
+    <p>My name is Mattis and I am a PhD student in Computer Science. This page aims to give you a brief overview about me and my projects.</p>
     <div class="contact-links">
-      🧬 <a href="https://orcid.org/0009-0005-1140-3352">ORCID: 0009-0005-1140-3352</a><br>
-      🔗 <a href="https://www.linkedin.com/in/mattis-thor-straten-517467211/">LinkedIn</a><br>
-      📧 <a href="mailto:mts@cs.uni-kiel.de">mts[at]cs.uni-kiel.de</a>
+      📝 <a href="https://orcid.org/0009-0005-1140-3352">ORCID: 0009-0005-1140-3352</a><br>
+      💻 <a href="https://www.linkedin.com/in/mattis-thor-straten-517467211/">LinkedIn</a><br>
+      ✉️ <a href="mailto:mts@cs.uni-kiel.de">mts[at]cs.uni-kiel.de</a>
     </div>
   </div>
 </div>
-
 
 ---
 
 ## About me
 
-I am working at Kiel University as a PhD student in the Department of Computer Science since March 2024.  
-My research group is [Archeoinformatics – Data Science](https://www.uni-kiel.de/de/tf/forschen/institut-informatik/archaeoinformatik), where I work with Prof. Dr. Matthias Renz as part of [NFDI4Objects](https://www.nfdi4objects.net/) Task Area 3 "Analytics and Experiments".
+I am a PhD student in the Department of Computer Science at Kiel University, affiliated with the [Archeoinformatics – Data Science](https://www.uni-kiel.de/de/tf/forschen/institut-informatik/archaeoinformatik) research group. I work under the supervision of Prof. Dr. Matthias Renz within Task Area 3 (“Analytics and Experiments”) of the [NFDI4Objects](https://www.nfdi4objects.net/) consortium.
 
-I am particularly interested in data-centric methods for modeling, integrating and analyzing complex, heterogeneous information in the context of archaeological and cultural heritage research. 
+I am particularly interested in data-centric methods for modeling, integrating and analyzing complex, heterogeneous information in an interdisciplinary context. 
 My key research areas include:
 
 - **Heterogeneous Information Networks (HINs)** and **Knowledge Graphs**
 - **Semantic Web Technologies**, including **Linked Open Data** and **Semantic Modelling**
-- **Research Data Management**, with a focus on FAIR data
+- **Research Data Management**, with a particular emphasis on FAIR data
 - **Data Integration** and **Data Mining**, especially in interdisciplinary settings
 
 ---
@@ -45,19 +43,19 @@ My key research areas include:
 
 ## Publications
 
+- <p><a href="https://doi.org/10.5281/zenodo.17099453">
+      A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets (Preprint) </a><br>
+  <strong>M. thor Straten</strong>, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz</p>
+
 - <p><a href="https://doi.org/10.11588/heibooks.1652.c23914">
          Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks </a><br>
-  <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
+     <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
 
 ## Publications in Progress
 
 - <p>FAIRifying Interdisciplinary Heterogeneous Information Networks in the Cultural Heritage Domain<br> 
   <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
 
-- <p><a href="https://doi.org/10.5281/zenodo.17099453">
-      A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets </a><br>
-  <strong>M. thor Straten</strong>, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz</p>
-  
 - <p><a href="https://doi.org/10.5281/zenodo.17361588">From Interdisciplinary Data Management to Reproducible Research in Practice </a><br>
   S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz</p>
 
@@ -120,11 +118,13 @@ My key research areas include:
 
 ## Teaching
 
-- Winter term 25/26: **Master's Seminar** - Data Science
-- Winter term 25/26: **Bachelor's Seminar** - Data Science
-- Summer term 25: **Master's Project** - Data Science and Data Mining: *"A Live Foosball Commentary System Using Computer
+- Summer term 26: **Master's Seminar** – Data Science
+- Summer term 26: **Bachelor's Seminar** – Data Science
+- Winter term 25/26: **Master's Seminar** – Data Science
+- Winter term 25/26: **Bachelor's Seminar** – Data Science
+- Summer term 25: **Master's Project** – Data Science and Data Mining: *"A Live Foosball Commentary System Using Computer
   Vision, Markov Models, and Large Language Models"*
-- Summer term 25: **Bachelor's Seminar** - Data Science
+- Summer term 25: **Bachelor's Seminar** – Data Science
 
 ## Thesis Co-Supervision (with Prof. Dr. Matthias Renz)
 
