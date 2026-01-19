@@ -67,7 +67,7 @@ My key research areas include:
 
 ---
 
-## Presented Conference Talks & (Co-) Authored Posters
+## Presented Conference Talks & (Co-)Authored Posters
 
 - <p>CHNT 2025, Vienna, Austria: 
       <a href="https://doi.org/10.5281/zenodo.17529059">
