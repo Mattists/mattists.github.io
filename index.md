@@ -43,8 +43,8 @@ My key research areas include:
 
 ## Publications
 
-- <p><a href="https://doi.org/10.5281/zenodo.17099453">
-      A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets (Preprint) </a><br>
+- <p><a href="https://doi.org/10.5334/jcaa.262">
+      A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets </a><br>
   <strong>M. thor Straten</strong>, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz</p>
 
 - <p><a href="https://doi.org/10.11588/heibooks.1652.c23914">
