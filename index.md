@@ -69,9 +69,15 @@ My key research areas include:
 
 ## Presented Conference Talks & (Co-)Authored Posters
 
+- <p>deRSE 2026, Stuttgart, Germany: 
+      <a href="https://doi.org/10.5281/zenodo.18803486">
+      Semantic Modelling and Performance of (Geo-)Spatial Information in Knowledge Graphs and Heterogeneous Information Networks
+    </a><br>
+  F. Thiery, <strong>M. thor Straten</strong>, S. Strohm, M. Renz</p>
+
 - <p>CHNT 2025, Vienna, Austria: 
       <a href="https://doi.org/10.5281/zenodo.17529059">
-      FAIRifying Interdisciplinary Heterogeneous Information Networks in the Cultural Heritage Domain (Poster + Presentation)
+      FAIRifying Interdisciplinary Heterogeneous Information Networks in the Cultural Heritage Domain
     </a><br>
   <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
 
