@@ -52,6 +52,8 @@ My key research areas include:
          Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks </a><br>
      <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
 
+---
+
 ## Publications in Progress
 
 - <p>General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting<br> 
@@ -90,18 +92,27 @@ My key research areas include:
 
 ---
 
+## Review Experience
+
+I have assisted with the review process for several venues in the digital heritage, database and data mining community, including SIGMOD (2027), MDM (2026), deRSE (2025), CHNT (2024, 2025) under the  supervision of Prof. Dr. Matthias Renz.
+
+---
+
 ## Teaching
 
 - Summer term 26: **Master's Seminar** – Data Science
 - Summer term 26: **Bachelor's Seminar** – Data Science
 - Winter term 25/26: **Master's Seminar** – Data Science
 - Winter term 25/26: **Bachelor's Seminar** – Data Science
+- Summer term 25: **Bachelor's Seminar** – Data Science
 - Summer term 25: **Master's Project** – Data Science and Data Mining: *"A Live Foosball Commentary System Using Computer
   Vision, Markov Models, and Large Language Models"*
-- Summer term 25: **Bachelor's Seminar** – Data Science
+
+---
 
 ## Thesis Co-Supervision (with Prof. Dr. Matthias Renz)
 
 - Summer term 26: **Master's Thesis** – *"Efficient Graphlet Counting in Heterogeneous Information Networks"*
+- Summer term 26: **Bachelor's Thesis** – *"Network Motif Discovery in Heterogeneous Information Networks"*
 - Summer term 26: **Bachelor's Thesis** – *"Bridging RDF-Based Knowledge Graphs and Heterogeneous Information Networks"*
 - Winter term 25/26: **Master's Thesis** – *"Integrating Grid-Based Proximity and Indexing for Spatially-Aware PathSim Queries"*
