@@ -57,6 +57,12 @@ My key research areas include:
 
 ## Publications in Progress
 
+- <p>CaTSCAN: Calculating Typed Subgraph Counts Analytically for Networks<br>
+  C. Beth, <strong>M. thor Straten</strong>, F. Rodriguez Rasmussen, M. M. Najafi, R. Cheng, M. Renz</p>
+
+- <p>From Relations to Graphs: (Geo-)Spatial data in the Cultural Heritage Domain<br> 
+  F. Thiery, <strong>M. thor Straten</strong>, S. Strohm, M. Renz</p>
+
 - <p>General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting<br> 
   <strong>M. thor Straten</strong>, Y. Woelker, S. Strohm, P. Mithare, R. Krestel, M. Renz</p>
 
