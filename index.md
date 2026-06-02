@@ -57,13 +57,13 @@ My key research areas include:
 
 ## Publications in Progress
 
-- <p>CaTSCAN: Calculating Typed Subgraph Counts Analytically for Networks<br>
+- <p>CaTSCAN: Calculating Typed Subgraph Counts Analytically for Networks (<strong>accepted</strong> at ECML PKDD 2026)<br>
   C. Beth, <strong>M. thor Straten</strong>, F. Rodriguez Rasmussen, M. M. Najafi, R. Cheng, M. Renz</p>
 
 - <p>From Relations to Graphs: (Geo-)Spatial data in the Cultural Heritage Domain<br> 
   F. Thiery, <strong>M. thor Straten</strong>, S. Strohm, M. Renz</p>
 
-- <p>General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting<br> 
+- <p>General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting (<strong>accepted</strong> at MDM 2026)<br> 
   <strong>M. thor Straten</strong>, Y. Woelker, S. Strohm, P. Mithare, R. Krestel, M. Renz</p>
 
 - <p>FAIRifying Interdisciplinary Heterogeneous Information Networks in the Cultural Heritage Domain<br> 
@@ -72,7 +72,7 @@ My key research areas include:
 - <p><a href="https://doi.org/10.5281/zenodo.17361588">From Interdisciplinary Data Management to Reproducible Research in Practice </a><br>
   S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz</p>
 
-- <p>Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks<br>
+- <p>Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks (<strong>accepted</strong> at CHNT 2024)<br>
   <strong>M. thor Straten</strong>, S. Strohm, M. Renz</p>
 
 - <p>Approaching Data Integration for Dissimilar Objects<br>
