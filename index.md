@@ -101,7 +101,7 @@ My key research areas include:
 
 ## Review Experience
 
-I have assisted with the review process for several venues in the digital heritage, database and data mining community, including SIGMOD (2027), MDM (2026), deRSE (2025), CHNT (2024, 2025) under the  supervision of Prof. Dr. Matthias Renz.
+I have assisted with the review process for several venues in the database and data mining community as well as the digital heritage community, including SIGMOD (2027), MDM (2026), deRSE (2025, 2026), CHNT (2024, 2025) under the  supervision of Prof. Dr. Matthias Renz.
 
 ---
 
