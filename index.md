@@ -47,33 +47,33 @@ My key research areas include:
 
 - <p><a href="https://doi.org/10.5334/jcaa.262">
       A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets </a><br>
-  <strong>M. thor Straten</strong>, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz</p>
+  <strong>M. thor Straten</strong>, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz – <i>CAA 2025</i></p>
 
 - <p><a href="https://doi.org/10.11588/heibooks.1652.c23914">
          Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks </a><br>
-     <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
+     <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz – <i>E-Science Tage 2025</i></p>
 
 ---
 
 ## Publications in Progress
 
-- <p>CaTSCAN: Calculating Typed Subgraph Counts Analytically for Networks (<strong>accepted</strong> at ECML PKDD 2026)<br>
-  C. Beth, <strong>M. thor Straten</strong>, F. Rodriguez Rasmussen, M. M. Najafi, R. Cheng, M. Renz</p>
+- <p>CaTSCAN: Calculating Typed Subgraph Counts Analytically for Networks (<strong>accepted</strong> for publication, in press)<br>
+  C. Beth, <strong>M. thor Straten</strong>, F. Rodriguez Rasmussen, M. M. Najafi, R. Cheng, M. Renz – <i>ECML PKDD 2026 </i> </p>
 
 - <p>From Relations to Graphs: (Geo-)Spatial data in the Cultural Heritage Domain<br> 
-  F. Thiery, <strong>M. thor Straten</strong>, S. Strohm, M. Renz</p>
+  F. Thiery, <strong>M. thor Straten</strong>, S. Strohm, M. Renz – <i>deRSE 2026</i></p>
 
-- <p>General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting (<strong>accepted</strong> at MDM 2026)<br> 
-  <strong>M. thor Straten</strong>, Y. Woelker, S. Strohm, P. Mithare, R. Krestel, M. Renz</p>
+- <p>General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting (<strong>accepted</strong> for publication, in press)<br> 
+  <strong>M. thor Straten</strong>, Y. Woelker, S. Strohm, P. Mithare, R. Krestel, M. Renz – <i>MDM 2026</i></p>
 
 - <p>FAIRifying Interdisciplinary Heterogeneous Information Networks in the Cultural Heritage Domain<br> 
-  <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz</p>
+  <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz – <i>CHNT 2025</i></p>
 
 - <p><a href="https://doi.org/10.5281/zenodo.17361588">From Interdisciplinary Data Management to Reproducible Research in Practice </a><br>
-  S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz</p>
+  S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz – <i>CAA 2025</i></p>
 
-- <p>Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks (<strong>accepted</strong> at CHNT 2024)<br>
-  <strong>M. thor Straten</strong>, S. Strohm, M. Renz</p>
+- <p>Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks (<strong>accepted</strong> for publication, in press)<br>
+  <strong>M. thor Straten</strong>, S. Strohm, M. Renz – <i>CHNT 2024</i></p>
 
 - <p>Approaching Data Integration for Dissimilar Objects<br>
   S. Strohm, <strong>M. thor Straten</strong></p>
