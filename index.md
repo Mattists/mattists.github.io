@@ -69,7 +69,7 @@ My key research areas include:
 - <p>FAIRifying Interdisciplinary Heterogeneous Information Networks in the Cultural Heritage Domain<br> 
   <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz – <i>CHNT 2025</i></p>
 
-- <p><a href="https://doi.org/10.5281/zenodo.17361588">From Interdisciplinary Data Management to Reproducible Research in Practice </a><br>
+- <p><a href="https://doi.org/10.5281/zenodo.17361588">From Interdisciplinary Data Management to Reproducible Research in Practice </a> (<strong>accepted</strong> for publication, in press)<br>
   S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz – <i>CAA 2025</i></p>
 
 - <p>Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks (<strong>accepted</strong> for publication, in press)<br>
