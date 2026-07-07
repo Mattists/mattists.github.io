@@ -82,7 +82,7 @@ My key research areas include:
 
 ## Chaired Conference Sessions
 
-- <p><a href="https://chnt.at/">CHNT 2025 </a>: Conference on Cultural Heritage and New Technologies, Vienna, Austria <br> 30 Years of Visions for the Future Impacts of Technology on Cultural Heritage <br>
+- <p><a href="https://chnt.at/chnt30_archive/">CHNT 2025 </a>: Conference on Cultural Heritage and New Technologies, Vienna, Austria <br> <i>30 Years of Visions for the Future Impacts of Technology on Cultural Heritage</i> <br>
       Session: <a href="https://chnt.at/wp-content/uploads/2025/03/13.pdf"> 
       Research Data Management in an Agile, Semantically Interlinked, Data-Driven and AI-Biased World of Knowledge Hubs — A Re-Return for FAIR Reuse of Archive Data?
     </a><br>
@@ -92,7 +92,7 @@ My key research areas include:
       AI in Archaeology
     </a><br>
 
-- <p><a href="https://chnt.at/chnt29-2024/#top">CHNT 2024</a>: Conference on Cultural Heritage and New Technologies, Vienna, Austria <br>
+- <p><a href="https://chnt.at/chnt29-2024/">CHNT 2024</a>: Conference on Cultural Heritage and New Technologies, Vienna, Austria <br>
       Session: <a href="https://zenodo.org/records/10992402">
       Research Data Management in Cultural Heritage goes Digital – New Technologies Along the Object Biography
     </a><br>
