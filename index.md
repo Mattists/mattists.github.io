@@ -45,7 +45,7 @@ My key research areas include:
 
 ## Publications
 
-- <p><a href="https://doi.org/10.5281/zenodo.17361588">From Interdisciplinary Data Management to Reproducible Research in Practice </a><br>
+- <p><a href="https://doi.org/10.5281/zenodo.17361588">Bridging Interdisciplinary Research Data Management and Data Science through Modular Research Processes</a><br>
   S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz – <i>CAA 2025</i></p>
 
 - <p><a href="https://doi.org/10.5334/jcaa.262">
