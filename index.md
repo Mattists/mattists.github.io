@@ -45,16 +45,16 @@ My key research areas include:
 
 ## Publications
 
-- <p><a href="https://doi.org/10.5281/zenodo.17361588">Bridging Interdisciplinary Research Data Management and Data Science through Modular Research Processes</a><br>
-  S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz – <i>CAA 2025</i></p>
+- <p><a href="https://doi.org/10.24072/pcjournal.755">Bridging Interdisciplinary Research Data Management and Data Science through Modular Research Processes</a><br>
+  S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz – <i>Peer Community Journal</i></p>
 
 - <p><a href="https://doi.org/10.5334/jcaa.262">
       A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets </a><br>
-  <strong>M. thor Straten</strong>, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz – <i>CAA 2025</i></p>
+  <strong>M. thor Straten</strong>, S. Strohm, B. Serbe, J. Hilpert, C. Beth, T. Kerig, M. Renz – <i>Journal of Computer Applications in Archaeology</i></p>
 
 - <p><a href="https://doi.org/10.11588/heibooks.1652.c23914">
          Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks </a><br>
-     <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz – <i>E-Science Tage 2025</i></p>
+     <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz – <i> E-Science-Tage 2025: Research Data Management: Challenges in a Changing World </i></p>
 
 ---
 
