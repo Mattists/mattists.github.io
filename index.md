@@ -45,6 +45,9 @@ My key research areas include:
 
 ## Publications
 
+- <p><a href="https://doi.org/10.1109/MDM71479.2026.00016">General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting</a><br>
+  <strong>M. thor Straten</strong>, Y. Woelker, S. Strohm, P. Mithare, R. Krestel, M. Renz – <i>MDM 2026</i></p>
+
 - <p><a href="https://doi.org/10.24072/pcjournal.755">Bridging Interdisciplinary Research Data Management and Data Science through Modular Research Processes</a><br>
   S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz – <i>Peer Community Journal</i></p>
 
@@ -65,9 +68,6 @@ My key research areas include:
 
 - <p>From Relations to Graphs: (Geo-)Spatial data in the Cultural Heritage Domain<br> 
   F. Thiery, <strong>M. thor Straten</strong>, S. Strohm, M. Renz – <i>deRSE 2026</i></p>
-
-- <p>General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting (<strong>accepted</strong> for publication, in press)<br> 
-  <strong>M. thor Straten</strong>, Y. Woelker, S. Strohm, P. Mithare, R. Krestel, M. Renz – <i>MDM 2026</i></p>
 
 - <p>FAIRifying Interdisciplinary Heterogeneous Information Networks in the Cultural Heritage Domain<br> 
   <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz – <i>CHNT 2025</i></p>
