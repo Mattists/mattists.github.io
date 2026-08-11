@@ -46,7 +46,7 @@ My key research areas include:
 ## Publications
 
 - <p><a href="https://doi.org/10.1109/MDM71479.2026.00016">General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting</a><br>
-  <strong>M. thor Straten</strong>, Y. Woelker, S. Strohm, P. Mithare, R. Krestel, M. Renz – <i>MDM 2026</i></p>
+  <strong>M. thor Straten</strong>, Y. Woelker, S. Strohm, P. Mithare, R. Krestel, M. Renz – <i>2026 27th IEEE International Conference on Mobile Data Management (MDM)</i></p>
 
 - <p><a href="https://doi.org/10.24072/pcjournal.755">Bridging Interdisciplinary Research Data Management and Data Science through Modular Research Processes</a><br>
   S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz – <i>Peer Community Journal</i></p>
