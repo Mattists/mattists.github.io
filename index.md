@@ -46,8 +46,11 @@ My key research areas include:
 
 ## Publications
 
-- <p><a href="https://doi.org/10.1109/MDM71479.2026.00016">General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting</a><br>
-  <strong>M. thor Straten</strong>, Y. Woelker, S. Strohm, P. Mithare, R. Krestel, M. Renz – <i>2026 27th IEEE International Conference on Mobile Data Management (MDM)</i></p>
+- <p><a href="https://doi.org/10.1007/978-3-032-37657-2_31">CaTSCAN: Calculating Typed Subgraph Counts Analytically for Networks</a><br>
+  C. Beth, <strong>M. thor Straten</strong>, F. Rodriguez Rasmussen, M. M. Najafi, R. Cheng, M. Renz – <i>ECML PKDD 2026 </i></p>
+
+- <p><a href="https://doi.org/10.1109/MDM71479.2026.00016">General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting</a> (<a href="https://doi.org/10.48550/arXiv.2608.17440">Arxiv Preprint</a>)<br>
+     <strong>M. thor Straten</strong>, Y. Woelker, S. Strohm, P. Mithare, R. Krestel, M. Renz – <i>2026 27th IEEE International Conference on Mobile Data Management (MDM)</i></p>
 
 - <p><a href="https://doi.org/10.24072/pcjournal.755">Bridging Interdisciplinary Research Data Management and Data Science through Modular Research Processes</a><br>
   S. Strohm, <strong>M. thor Straten</strong>, A. Göhring, P. Kröger, M. Renz – <i>Peer Community Journal</i></p>
@@ -63,9 +66,6 @@ My key research areas include:
 ---
 
 ## Publications in Progress
-
-- <p>CaTSCAN: Calculating Typed Subgraph Counts Analytically for Networks (<strong>accepted</strong> for publication, in press)<br>
-  C. Beth, <strong>M. thor Straten</strong>, F. Rodriguez Rasmussen, M. M. Najafi, R. Cheng, M. Renz – <i>ECML PKDD 2026 </i> </p>
 
 - <p>From Relations to Graphs: (Geo-)Spatial data in the Cultural Heritage Domain<br> 
   F. Thiery, <strong>M. thor Straten</strong>, S. Strohm, M. Renz – <i>deRSE 2026</i></p>
