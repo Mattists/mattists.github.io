@@ -67,6 +67,9 @@ My key research areas include:
 
 ## Publications in Progress
 
+- <p>Co-Location Similarity Search with Semantic Constraints (<strong>accepted</strong> for publication, in press)<br> 
+  <strong>M. thor Straten</strong>, C. Beth, Y. Woelker, M. Renz – <i>GeoSearch 2026</i></p>
+
 - <p>From Relations to Graphs: (Geo-)Spatial data in the Cultural Heritage Domain<br> 
   F. Thiery, <strong>M. thor Straten</strong>, S. Strohm, M. Renz – <i>deRSE 2026</i></p>
 
