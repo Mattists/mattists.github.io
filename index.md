@@ -112,6 +112,7 @@ I have assisted with the review process for several venues in the database and d
 ## Teaching
 
 - Winter term 26/27: **Master's Seminar** – Data Science
+- Winter term 26/27: **Bachelor's Seminar** – Data Science
 - Summer term 26: **Master's Seminar** – Data Science
 - Summer term 26: **Bachelor's Seminar** – Data Science
 - Winter term 25/26: **Master's Seminar** – Data Science
