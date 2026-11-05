@@ -46,6 +46,9 @@ My key research areas include:
 
 ## Publications
 
+- <p>Co-Location Similarity Search with Semantic Constraints (<strong>accepted</strong> for publication, in press)<br> 
+  <strong>M. thor Straten</strong>, C. Beth, Y. Woelker, M. Renz – <i>GeoSearch 2026</i></p>
+
 - <p><a href="https://doi.org/10.1007/978-3-032-37657-2_31">CaTSCAN: Calculating Typed Subgraph Counts Analytically for Networks</a><br>
   C. Beth, <strong>M. thor Straten</strong>, F. Rodriguez Rasmussen, M. M. Najafi, R. Cheng, M. Renz – <i>ECML PKDD 2026 </i></p>
 
@@ -63,24 +66,8 @@ My key research areas include:
          Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks </a><br>
      <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz – <i> E-Science-Tage 2025: Research Data Management: Challenges in a Changing World </i></p>
 
----
-
-## Publications in Progress
-
-- <p>Co-Location Similarity Search with Semantic Constraints (<strong>accepted</strong> for publication, in press)<br> 
-  <strong>M. thor Straten</strong>, C. Beth, Y. Woelker, M. Renz – <i>GeoSearch 2026</i></p>
-
-- <p>From Relations to Graphs: (Geo-)Spatial data in the Cultural Heritage Domain<br> 
-  F. Thiery, <strong>M. thor Straten</strong>, S. Strohm, M. Renz – <i>deRSE 2026</i></p>
-
-- <p>FAIRifying Interdisciplinary Heterogeneous Information Networks in the Cultural Heritage Domain<br> 
-  <strong>M. thor Straten</strong>, S. Strohm, F. Thiery, M. Renz – <i>CHNT 2025</i></p>
-
 - <p>Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks (<strong>accepted</strong> for publication, in press)<br>
-  <strong>M. thor Straten</strong>, S. Strohm, M. Renz – <i>CHNT 2024</i></p>
-
-- <p>Approaching Data Integration for Dissimilar Objects<br>
-  S. Strohm, <strong>M. thor Straten</strong></p>
+     <strong>M. thor Straten</strong>, S. Strohm, M. Renz – <i>CHNT 2024</i></p>
 
 ---
 
