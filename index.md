@@ -24,7 +24,7 @@ layout: default
 
 ## About me
 
-I am a PhD student in the Department of Computer Science at Kiel University, working as a researcher and Data Scientist in the research group [Archeoinformatics – Data Science](https://www.uni-kiel.de/de/tf/forschen/institut-informatik/archaeoinformatik) and in Task Area 3 (“Analytics and Experiments”) of the [NFDI4Objects](https://www.nfdi4objects.net/) consortium.
+I am a PhD student in the Department of Computer Science at Kiel University, working as a researcher and Data Scientist in the research group [Archeoinformatics – Data Science](https://www.ai.informatik.uni-kiel.de/) and in Task Area 3 (“Analytics and Experiments”) of the [NFDI4Objects](https://www.nfdi4objects.net/) consortium.
 
 I am particularly interested in data-centric methods for modeling, integrating and analyzing complex, heterogeneous network information in an interdisciplinary context. 
 My key research areas include:
