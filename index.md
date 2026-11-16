@@ -113,6 +113,7 @@ I further reviewed submissions for several venues in the digital heritage and re
 
 ## Thesis Co-Supervision (with Prof. Dr. Matthias Renz)
 
+- Winter term 26/27: **Bachelor's Thesis** – *"Typed Graphlet Counting in the NFDI4Objects Knowledge Graph"*
 - Summer term 26: **Master's Thesis** – *"Efficient Graphlet Counting in Heterogeneous Information Networks"*
 - Summer term 26: **Bachelor's Thesis** – *"Network Motif Discovery in Heterogeneous Information Networks"*
 - Summer term 26: **Bachelor's Thesis** – *"Bridging RDF-Based Knowledge Graphs and Heterogeneous Information Networks"*
