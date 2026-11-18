@@ -46,7 +46,7 @@ My key research areas include:
 
 ## Publications
 
-- <p>Co-Location Similarity Search with Semantic Constraints (<strong>accepted</strong> for publication, in press)<br> 
+- <p><a href="https://doi.org/10.1145/3849732.3857327">Co-Location Similarity Search with Semantic Constraints</a><br> 
   <strong>M. thor Straten</strong>, C. Beth, Y. Woelker, M. Renz – <i>GeoSearch 2026</i></p>
 
 - <p><a href="https://doi.org/10.1007/978-3-032-37657-2_31">CaTSCAN: Calculating Typed Subgraph Counts Analytically for Networks</a><br>
