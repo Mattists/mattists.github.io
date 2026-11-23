@@ -62,20 +62,20 @@ layout: default
   <div>
     <p>I develop scalable methods for analysing heterogeneous networks and knowledge graphs, with a particular focus on spatial data. My research spans similarity search that combines geographic proximity with semantic relationships, the use of knowledge graphs to bring additional context to predictive models, and efficient algorithms for counting typed subgraphs. I also integrate data from diverse sources to apply these methods to real-world problems.</p>
     <p>I am part of the <a href="https://www.ai.informatik.uni-kiel.de/">Archeoinformatics – Data Science</a> group at Kiel University. In Task Area 3 (Analytics and Experiments) of <a href="https://www.nfdi4objects.net/">NFDI4Objects</a>, I work on integrating and analysing archaeological and cultural heritage data.</p>
-    <div class="profile-links">
-      <a href="mailto:mts@cs.uni-kiel.de">Email</a>
-      <a href="https://scholar.google.com/citations?user=8UY7TpkAAAAJ">Google Scholar</a>
-      <a href="https://github.com/Mattists">GitHub</a>
+    <div class="profile-links"> Jump to: 
+      <a href="mailto:mts@cs.uni-kiel.de">Email</a> · 
+      <a href="https://scholar.google.com/citations?user=8UY7TpkAAAAJ">Google Scholar</a> · 
+      <a href="https://github.com/Mattists">GitHub</a> · 
       <a href="https://www.linkedin.com/in/mattis-thor-straten-517467211/">LinkedIn</a>
     </div>
   </div>
   <img src="{{ '/images/profil.jpg' | relative_url }}" alt="Mattis thor Straten">
 </div>
 <nav class="section-links" aria-label="Page sections">
-  <a href="#research">Research</a>
-  <a href="#publications">Publications</a>
-  <a href="#teaching">Teaching &amp; Supervision</a>
-  <a href="#academic-service">Academic Service</a>
+  <a href="#research">Research</a> · 
+  <a href="#publications">Publications</a> · 
+  <a href="#teaching">Teaching</a> · 
+  <a href="#academic-service">Academic Service</a> · 
   <a href="#education">Education</a>
 </nav>
 
