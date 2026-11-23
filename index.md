@@ -8,7 +8,6 @@ layout: default
   .page-header {
     padding: 2.5rem 1rem;
   }
-
   .page-header .project-tagline {
     margin-bottom: 0;
     opacity: 1;
@@ -97,28 +96,28 @@ We develop algorithms for exactly counting small, typed subgraphs in heterogeneo
 ### General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting
 
 We use Wikidata to capture context around traffic sensors, such as nearby points of interest, and incorporate it into graph neural networks for traffic forecasting.  
-[Paper](https://doi.org/10.1109/MDM71479.2026.00016) · [arXiv](https://doi.org/10.48550/arXiv.2608.17440)  · [Code](https://github.com/cau-kiel-ai/Semantic-Knowledge-Infusion-ST-Prediction)
+[Paper](https://doi.org/10.1109/MDM71479.2026.00016) · [arXiv Preprint](https://doi.org/10.48550/arXiv.2608.17440)  · [Code](https://github.com/cau-kiel-ai/Semantic-Knowledge-Infusion-ST-Prediction)
 
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=8UY7TpkAAAAJ) · [ORCID](https://orcid.org/0009-0005-1140-3352) · [DBLP](https://dblp.org/pid/442/6126)
 
-- [Co-Location Similarity Search with Semantic Constraints](https://doi.org/10.1145/3849732.3857327)  
+- [Co-Location Similarity Search with Semantic Constraints](https://doi.org/10.1145/3849732.3857327) ([Code](https://github.com/Mattists/Co-Location-Similarity-Search-with-Semantic-Constraints)) 
   **M. thor Straten**, C. Beth, Y. Woelker, M. Renz · *GeoSearch 2026*
 
-- [CaTSCAN: Calculating Typed Subgraph Counts Analytically for Networks](https://doi.org/10.1007/978-3-032-37657-2_31)  
+- [CaTSCAN: Calculating Typed Subgraph Counts Analytically for Networks](https://doi.org/10.1007/978-3-032-37657-2_31) ([Code](https://github.com/c-beth/CaTSCAN)) 
   C. Beth, **M. thor Straten**, F. Rodriguez Rasmussen, M. M. Najafi, R. Cheng, M. Renz · *ECML PKDD 2026*
 
-- [General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting](https://doi.org/10.1109/MDM71479.2026.00016) ([arXiv preprint](https://doi.org/10.48550/arXiv.2608.17440))  
+- [General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting](https://doi.org/10.1109/MDM71479.2026.00016) ([arXiv Preprint](https://doi.org/10.48550/arXiv.2608.17440)) ([Code](https://github.com/cau-kiel-ai/Semantic-Knowledge-Infusion-ST-Prediction)) 
   **M. thor Straten**, Y. Woelker, S. Strohm, P. Mithare, R. Krestel, M. Renz · *IEEE MDM 2026*
 
 - [Bridging Interdisciplinary Research Data Management and Data Science through Modular Research Processes](https://doi.org/10.24072/pcjournal.755)  
   S. Strohm, **M. thor Straten**, A. Göhring, H. Buenning, P. Kröger, O. Nakoinz, M. Renz, C. Rinne · *Peer Community Journal*, 2026
 
-- [A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets](https://doi.org/10.5334/jcaa.262)  
+- [A Network View on the Big Exchange Project: Integrating and Analysing Heterogeneous Datasets](https://doi.org/10.5334/jcaa.262) ([Code](https://github.com/Mattists/SpatialPathSim4BigExchange))  
   **M. thor Straten**, S. Strohm, J. Hilpert, B. Serbe, T. Kerig, M. Renz · *Journal of Computer Applications in Archaeology*, 2026
 
-- [Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks](https://doi.org/10.11588/heibooks.1652.c23914)  
+- [Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks](https://doi.org/10.11588/heibooks.1652.c23914) ([Ontology](https://github.com/archaeonatural-cloud/archaeonatural-ontology/tree/main)) 
   **M. thor Straten**, S. Strohm, F. Thiery, M. Renz · *E-Science-Tage 2025: Research Data Management: Challenges in a Changing World*
 
 - Lifting Heritage Data Integration to the Next Level with Heterogeneous Information Networks  
