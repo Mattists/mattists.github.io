@@ -1,6 +1,6 @@
 ---
 title: "Mattis thor Straten"
-description: "PhD Researcher in Computer Science at Kiel University"
+description: "PhD Student in Computer Science at Kiel University"
 layout: default
 ---
 
@@ -78,6 +78,7 @@ layout: default
   <a href="#academic-service">Academic Service</a> · 
   <a href="#education">Education</a>
 </nav>
+
 
 
 ## Selected Research
