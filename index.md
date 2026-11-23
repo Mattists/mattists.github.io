@@ -60,8 +60,8 @@ layout: default
 
 <div class="profile-intro">
   <div>
-    <p>I develop scalable methods for finding patterns in heterogeneous networks and knowledge graphs, with a focus on spatial data. My work includes similarity search that combines geographic proximity with semantic relationships, and algorithms that count small, typed subgraphs.</p>
-    <p>I work in the <a href="https://www.ai.informatik.uni-kiel.de/">Archeoinformatics – Data Science</a> group at Kiel University. In Task Area 3 (Analytics and Experiments) of <a href="https://www.nfdi4objects.net/">NFDI4Objects</a>, I work on integrating and analysing archaeological and cultural heritage data.</p>
+    <p>I develop scalable methods for analysing heterogeneous networks and knowledge graphs, with a particular focus on spatial data. My research spans similarity search that combines geographic proximity with semantic relationships, the use of knowledge graphs to bring additional context to predictive models, and efficient algorithms for counting typed subgraphs. I also integrate data from diverse sources to apply these methods to real-world problems.</p>
+    <p>I am part of the <a href="https://www.ai.informatik.uni-kiel.de/">Archeoinformatics – Data Science</a> group at Kiel University. In Task Area 3 (Analytics and Experiments) of <a href="https://www.nfdi4objects.net/">NFDI4Objects</a>, I work on integrating and analysing archaeological and cultural heritage data.</p>
     <div class="profile-links">
       <a href="mailto:mts@cs.uni-kiel.de">Email</a>
       <a href="https://scholar.google.com/citations?user=8UY7TpkAAAAJ">Google Scholar</a>
@@ -71,13 +71,14 @@ layout: default
   </div>
   <img src="{{ '/images/profil.jpg' | relative_url }}" alt="Mattis thor Straten">
 </div>
-
 <nav class="section-links" aria-label="Page sections">
   <a href="#research">Research</a>
   <a href="#publications">Publications</a>
   <a href="#teaching">Teaching &amp; Supervision</a>
   <a href="#academic-service">Academic Service</a>
+  <a href="#education">Education</a>
 </nav>
+
 
 ## Selected Research
 {: #research}
